@@ -49,7 +49,7 @@ To satisfy the parameters of this specific record, the following criteria must b
 This repository is maintained as a public record of creative stamina and linguistic innovation. For serious inquiries regarding the publication data, academic discussion on the constructed languages used, or media outreach, please open an issue or contact the repository administrators via GitHub.
 
 [+]
-
+TL;DR --
 Go here for a description of the World Record:
 
 https://github.com/delphicventurescode/POLYGLOT_POET_WR__polyglotPoetWorldRecord__public/blob/main/WR_theWorldRecord/README.md
