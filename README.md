@@ -8,6 +8,12 @@ This repository serves as a transparent, public archive of the poetic collection
 
 ---
 
+(: UPDATE OF MAY 19, 2026 :)
+
+This record is currently being actively validated by an organization in the concerned field of evaluating world records, and publishing books of records
+
+---
+
 ## 🌌 Project Overview
 
 This world record represents a unique intersection of prolific literary production, deep linguistic exploration, and creative expression. By bridging the worlds of natural languages and constructed languages (conlangs), this project pushes the boundaries of contemporary poetry and challenges traditional notions of literary mediums.
