@@ -7,10 +7,13 @@ Welcome to the public repository documenting the official claim and evidence for
 This repository serves as a transparent, public archive of the poetic collections, linguistic frameworks, and publication data supporting this landmark achievement in multilingual literature.
 
 ---
+📅 Update: May 19, 2026 - early morning
 
-(: UPDATE OF MAY 19, 2026 :)
+This world record claim is currently undergoing active validation and official review by a leading international record-keeping and publishing organization.
 
-This record is currently being actively validated by an organization in the concerned field of evaluating world records, and publishing books of records
+📅 Update: May 19, 2026 - late morning
+
+Virtually, all the requisite paperwork required has now been prepared, and made available to the organization in a Google Drive folder.
 
 ---
 
