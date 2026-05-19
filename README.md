@@ -23,15 +23,17 @@ This world record represents a unique intersection of prolific literary producti
 
 For a full breakdown of the world record definition, its underlying philosophy, and its impact on bridging traditional poetry communities with conlang enthusiasts, please view the core document:
 
-👉 **[Read the Full World Record Description here](WR_theWorldRecord/README.md)**
+https://github.com/delphicventurescode/POLYGLOT_POET_WR__polyglotPoetWorldRecord__public/blob/main/WR_theWorldRecord/README.md
+
+
 
 ---
 
 ## 🛠️ Repository Structure
 
 * **`WR_theWorldRecord/`**: Contains the formal definition, rules, and conceptual discussions surrounding the world record claim.
-* *(Planned/In Progress)* **`Evidence_Logs/`**: Structured indexes, publication dates, and metadata verifying compliance with the consecutive-year requirement.
-* *(Planned/In Progress)* **`Linguistic_Profiles/`**: Overviews of the specific natural and constructed languages utilized throughout the collections.
+* *(Planned/In Progress)* **`Evidence_Logs/`**: Structured photographic content, publication dates, and metadata verifying compliance with the consecutive-year requirement. This is currently being made available to the evaluating organization on a Google Drive.
+
 
 ---
 
@@ -49,6 +51,7 @@ To satisfy the parameters of this specific record, the following criteria must b
 This repository is maintained as a public record of creative stamina and linguistic innovation. For serious inquiries regarding the publication data, academic discussion on the constructed languages used, or media outreach, please open an issue or contact the repository administrators via GitHub.
 
 [+]
+
 TL;DR --
 Go here for a description of the World Record:
 
