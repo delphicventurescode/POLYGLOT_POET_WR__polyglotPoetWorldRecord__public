@@ -5,8 +5,8 @@ Polyglot_poet: Most poetry books in two consecutive years across natural and con
 ---
 **Requirements**
 
-- the years have to be consecutive.
-- at least one poetry book in a constructed language and at least one poetry book in a natural language
+- The years have to be consecutive.
+- At least one poetry book in a constructed language and at least one poetry book in a natural language.
   
 ---
 **Discussion**
