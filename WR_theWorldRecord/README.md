@@ -18,3 +18,4 @@ This accomplishment required not only prolific writing and publishing capability
 This record stands as a testament to the power of multilingual creativity and the growing recognition of constructed languages as legitimate mediums for literary art. By bridging traditional poetry communities with constructed language enthusiasts, this achievement opens new conversations about the nature of language, translation, and artistic expression in our increasingly connected world.
 
 ---
+ 
